@@ -1,1 +1,1 @@
-A simple project for storing photo using MySQL
+A simple project for storing photo using `MySQL`
